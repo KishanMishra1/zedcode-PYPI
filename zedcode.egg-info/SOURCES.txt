@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+zedcode/__init__.py
+zedcode.egg-info/PKG-INFO
+zedcode.egg-info/SOURCES.txt
+zedcode.egg-info/dependency_links.txt
+zedcode.egg-info/top_level.txt
