@@ -1,4 +1,3 @@
-# zedcode-PYPI
+#zedcode
 
-
-A python package for competitive coder
+Shorten your code !
